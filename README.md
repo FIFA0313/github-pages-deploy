@@ -1,4 +1,4 @@
-# GitHub Pages Deploy Action :rocket:
+# GitHub Pages Deploy :rocket:
 
 This [GitHub action](https://github.com/features/actions) will handle the building and deploy process of your project to [GitHub Pages](https://pages.github.com/).
 
